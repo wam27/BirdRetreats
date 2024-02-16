@@ -6,6 +6,6 @@
 ## - occurrences is the path to the folder where occurrences are stored. This data can be donwloaded from eBird or GBIF repositories.
 ## - low_lim and up_lim are lower and upper elevation thresholds beyond which we want to analyze data.
 ## - year is the separation timeline to analyse data. 
-## For more information see updates here to the link to the published paper.
+## For more information see the published paper here: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14127.
 
 Notes: This codes uses eBird and GBIF data. The user can select either or both. The file extention to the occurrences is in .csv and each file path is written as _pres.csv for eBird and _gbif_P.csv for GBIF. This can be easily adjusted.
